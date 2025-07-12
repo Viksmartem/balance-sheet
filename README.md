@@ -13,7 +13,7 @@ It displays a clean summary of assets, liabilities, and equity using a responsiv
 - Clean tabular layout
 - Semantic use of HTML for structure
 - Simple CSS styling for clarity and alignment
-- Mobile-friendly adjustments (if applicable)
+- Mobile-friendly adjustments 
 
 ## 📁 Project Structure
 
